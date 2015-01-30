@@ -23,11 +23,11 @@ THE SOFTWARE.
 // settings
 
 var physics_accuracy = 3,
-    mouse_influence = 20,
+    mouse_influence = 200,
     mouse_cut = 5,
     gravity = 1200,
     cloth_height = 30,
-    cloth_width = 50,
+    cloth_width = 80,
     start_y = 20,
     spacing = 7,
     tear_distance = 60;
